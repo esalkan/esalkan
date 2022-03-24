@@ -1,7 +1,5 @@
 ### Hi there 👋 in short you can call me ALKAN.😉
 
-Software Development Engineer in TEST, 2+ years of Web-based applications as a Selenium Automation Engineer and Quality Assurance Tester along with a strong background in automation framework design and implementation. Skilled in implementing end-2-end testing for 3 layers of applications including UI, API, and DB.
-
 - 🔭 I’m currently searching something cool :wink:
 - 💻 I’m currently working on something cool with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="18" height="18"/>  <img src="https://avatars.githubusercontent.com/u/574284?s=200&v=4" width="18" height="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="18" height="18"/>
 - 💬 If there is anything you want to know, you can ask, I would be happy to help to the best of my knowledge.
