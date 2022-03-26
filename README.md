@@ -21,7 +21,7 @@
 [![github](https://img.shields.io/github/followers/esalkan?logo=github&style=plastic)](https://github.com/esalkan?tab=followers)
 
 <details>  
-  <summary>📊 &nbsp;**This week I spent my time on** </summary>
+   <summary>📊 &nbsp;<strong>This Month I spent my time on</strong> </summary>
    <p align="left">
       <img src="https://wakatime.com/share/@esalkan/3be1d35f-b765-4db4-a9e3-bd0f2cd50203.svg" width="auto">
    </p>
