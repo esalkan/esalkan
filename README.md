@@ -1,12 +1,4 @@
 ### Hi there In short, you can call me ALKAN! 👋😉
-
-   <p align="justify">
-   <strong>-</strong> Software Quality Assurance Engineer experienced in writing and executing both manual and automation test cases. Skilled in implementing end-to-end testing for 3 layers of applications including UI, API, and database.  <br />
-   <strong>-</strong> Hands-on experience in functional and automation testing using Java, Selenium, Selenium WebDriver, TestNG. Contributed to creating and maintaining software test automation frameworks. <br />
-   <strong>-</strong> Proficient in Cucumber BDD framework, Junit, Postman, and Rest Assured Library. Strong understanding of Software Development Lifecycle (SDLC), Software Testing Lifecycle (STLC), and Defect Life Cycle (DLC). <br />
-   <strong>-</strong> Hands-on in web application back-end development and a good understanding of the working process. <br />
-   <strong>-</strong> Experience with working in an Agile environment. Involved and contributed to all scrum ceremonies. Detail-oriented, lifelong learner. Trying to enhance his understanding of Quality Assurance.<br />
-   </p>
    <p align="justify">
    <strong>-</strong> 🔭 I'm non-stop searching for something cool. 😉 <br />
    <strong>-</strong> 💻 I’m currently working on something cool with <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="20" height="20"/> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="18" height="18"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="18" height="18"/> <a href="https://www.atlassian.com" target="_blank"> <img src="https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/dam/jcr:e0cedee5-a180-40ad-b7c3-a66d6e60f483/jira-app-adg3.svg?cdnVersion=211" alt="jira" width="20" height="20" /></a><br />
