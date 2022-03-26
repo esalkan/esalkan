@@ -9,10 +9,29 @@
 **Languages&nbsp;and&nbsp;Tools**
   <br/>
   <p align="left"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="28" height="28"/>
-   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="28" height="28"/>
-          
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="28" height="28"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="28" height="28"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="28" height="28" /> 
+   
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/java-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/selenium-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/cucumber-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/testng-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/junit-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/jenkins-icon.png" width="28 height="28">
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/sql-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/postgreqsl-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/sqldeveloper-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/selenium-grid-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/oracle-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/mysql-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/html-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/css-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/laravel-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/php-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/eclipse-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/vscode-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/intellij-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/postman-icon.png" width="28 height="28"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/restassured-icon.png" width="28 height="28"> 
+   
   
   🔗 **Connect with me**
 <p align="left">
