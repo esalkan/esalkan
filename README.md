@@ -23,6 +23,6 @@
 <details>  
   <summary>📊 &nbsp;**This week I spent my time on** </summary>
    <p align="left">
-      <img src="https://wakatime.com/share/@esalkan/4a8c1d7a-9879-47c4-b73f-5e79a89bd33d.svg" width="400" height="400">
+      <img src="https://wakatime.com/share/@esalkan/3be1d35f-b765-4db4-a9e3-bd0f2cd50203.svg" width="auto">
    </p>
 </details>
