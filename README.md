@@ -6,7 +6,7 @@
    </p>
 
 
-**Languages&nbsp;and&nbsp;Tools**
+**Languages & Tools That I use**
   <br/>
   <p align="left"> 
    <img src="https://github.com/esalkan/esalkan/blob/master/assets/java-icon.png" width="30 height="30"> 
@@ -31,7 +31,7 @@
    <img src="https://github.com/esalkan/esalkan/blob/master/assets/postman-icon.png" width="30 height="30"> 
    <img src="https://github.com/esalkan/esalkan/blob/master/assets/restassured-icon.png" width="30 height="30"> 
 </p>
-  🔗 **Connect with me**
+🔗 <strong>Connect with me</strong>
 <p align="left">
 <a href="https://dev.to/esalkan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="esalkan" height="30" width="40" /></a>
 <a href="https://twitter.com/esalkan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esalkan_" height="30" width="40" /></a>
