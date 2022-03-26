@@ -9,27 +9,27 @@
 **Languages&nbsp;and&nbsp;Tools**
   <br/>
   <p align="left"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/java-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/selenium-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/cucumber-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/testng-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/junit-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/jenkins-icon.png" width="28 height="28">
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/sql-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/postgreqsl-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/sqldeveloper-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/selenium-grid-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/oracle-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/mysql-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/html-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/css-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/laravel-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/php-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/eclipse-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/vscode-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/intellij-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/postman-icon.png" width="28 height="28"> 
-   <img src="https://github.com/esalkan/esalkan/blob/master/assets/restassured-icon.png" width="28 height="28">    
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/java-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/selenium-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/cucumber-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/testng-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/junit-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/jenkins-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/sql-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/postgreqsl-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/sqldeveloper-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/selenium-grid-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/oracle-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/mysql-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/html-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/css-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/laravel-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/php-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/eclipse-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/vscode-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/intellij-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/postman-icon.png" width="30 height="30"> 
+   <img src="https://github.com/esalkan/esalkan/blob/master/assets/restassured-icon.png" width="30 height="30"> 
 </p>
   🔗 **Connect with me**
 <p align="left">
