@@ -34,6 +34,7 @@
 <a href="https://dev.to/esalkan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="esalkan" height="30" width="40" /></a>
 <a href="https://twitter.com/esalkan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esalkan_" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17214130/esalkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+
 [![wakatime](https://wakatime.com/badge/user/71228768-2c3b-4caf-acf5-ca89de14fc6c.svg)](https://wakatime.com/badge/user/71228768-2c3b-4caf-acf5-ca89de14fc6c.svg)
 [![twitter](https://img.shields.io/twitter/follow/esalkan_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/esalkan_)
 [![github](https://img.shields.io/github/followers/esalkan?logo=github&style=plastic)](https://github.com/esalkan?tab=followers)
