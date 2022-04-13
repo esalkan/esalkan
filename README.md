@@ -14,8 +14,8 @@
 [![wakatime](https://wakatime.com/badge/user/71228768-2c3b-4caf-acf5-ca89de14fc6c.svg)](https://wakatime.com/badge/user/71228768-2c3b-4caf-acf5-ca89de14fc6c.svg)
 [![twitter](https://img.shields.io/twitter/follow/esalkan_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/esalkan_)
 [![github](https://img.shields.io/github/followers/esalkan?logo=github&style=plastic)](https://github.com/esalkan?tab=followers)
-
-     <p align="left"> 
+<br />
+<p align="left"> 
    <img src="https://github.com/esalkan/esalkan/blob/master/assets/java-icon.png" width="24 height="24"> 
    <img src="https://github.com/esalkan/esalkan/blob/master/assets/selenium-icon.png" width="24 height="24"> 
    <img src="https://github.com/esalkan/esalkan/blob/master/assets/cucumber-icon.png" width="24 height="24"> 
@@ -38,6 +38,7 @@
    <img src="https://github.com/esalkan/esalkan/blob/master/assets/postman-icon.png" width="24 height="24"> 
    <img src="https://github.com/esalkan/esalkan/blob/master/assets/restassured-icon.png" width="24 height="24"> 
 </p>
+                                                                                                              
 <details>  
    <summary>📊 &nbsp;<strong>This Month I spent my time on</strong> </summary>
    <p align="left">
