@@ -42,6 +42,6 @@
 <details>  
    <summary>📊 &nbsp;<strong>This Month I spent my time on</strong> </summary>
    <p align="left">
-      <img src="https://wakatime.com/share/@esalkan/3be1d35f-b765-4db4-a9e3-bd0f2cd50203.svg" width="auto">
+      <img src="https://wakatime.com/share/@esalkan/5b9cbddf-5024-4d81-a48b-cb74ffdaac79.svg" width="auto">
    </p>
 </details>
