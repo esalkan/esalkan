@@ -42,7 +42,7 @@
 <details>  
    <summary>📊 &nbsp;<strong>This Month I spent my time on</strong> </summary>
    <p align="left">
-      <img src="https://wakatime.com/share/@esalkan/5b9cbddf-5024-4d81-a48b-cb74ffdaac79.svg" width="auto">
-      <img src="https://wakatime.com/share/@esalkan/22e3ddf9-22d7-4fa2-ace8-c58f1e50d762.svg" width="auto">
+      <img src="https://wakatime.com/share/@esalkan/5b9cbddf-5024-4d81-a48b-cb74ffdaac79.svg" width="50%">
+      <img src="https://wakatime.com/share/@esalkan/22e3ddf9-22d7-4fa2-ace8-c58f1e50d762.svg" width="50%">
    </p>
 </details>
