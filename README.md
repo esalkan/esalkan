@@ -16,6 +16,7 @@
 [![github](https://img.shields.io/github/followers/esalkan?logo=github&style=plastic)](https://github.com/esalkan?tab=followers)
 <br />
 <p align="left"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" width="22" height="22"/>
    <img src="https://github.com/esalkan/esalkan/blob/master/assets/java-icon.png" width="24 height="24"> 
    <img src="https://github.com/esalkan/esalkan/blob/master/assets/selenium-icon.png" width="24 height="24"> 
    <img src="https://github.com/esalkan/esalkan/blob/master/assets/cucumber-icon.png" width="24 height="24"> 
