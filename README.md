@@ -42,10 +42,10 @@
                                                                                                               
 
    
-   // <summary>📊 &nbsp;<strong>I spent most of my spare time with</strong> </summary>
-   // <p align="left">
-   //   <a href="https://wakatime.com/share/@esalkan/bffeb873-8ae8-468b-af3c-51e9246c314a.svg"><img src="https://wakatime.com/share/@esalkan/bffeb873-8ae8-468b-af3c-51e9246c314a.svg" width="40%"></a>
-   //   <a href="https://wakatime.com/share/@esalkan/0f419af0-edc5-4c65-83de-4c5439d83b3f.svg"><img src="https://wakatime.com/share/@esalkan/0f419af0-edc5-4c65-83de-4c5439d83b3f.svg" width="40%"></a>
+   [//]: <>  <summary>📊 &nbsp;<strong>I spent most of my spare time with</strong> </summary>
+   [//]: <>  <p align="left">
+   [//]: <>    <a href="https://wakatime.com/share/@esalkan/bffeb873-8ae8-468b-af3c-51e9246c314a.svg"><img src="https://wakatime.com/share/@esalkan/bffeb873-8ae8-468b-af3c-51e9246c314a.svg" width="40%"></a>
+   [//]: <>    <a href="https://wakatime.com/share/@esalkan/0f419af0-edc5-4c65-83de-4c5439d83b3f.svg"><img src="https://wakatime.com/share/@esalkan/0f419af0-edc5-4c65-83de-4c5439d83b3f.svg" width="40%"></a>
       
-  // </p>
+  [//]: <>  </p>
 
