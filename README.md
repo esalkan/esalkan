@@ -6,7 +6,6 @@
    </p>
 
 [![wakatime](https://wakatime.com/badge/user/71228768-2c3b-4caf-acf5-ca89de14fc6c.svg)](https://wakatime.com/badge/user/71228768-2c3b-4caf-acf5-ca89de14fc6c.svg)
-[![twitter](https://img.shields.io/twitter/follow/esalkan_?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/esalkan_)
 [![github](https://img.shields.io/github/followers/esalkan?logo=github&style=plastic)](https://github.com/esalkan?tab=followers)
 <br />
 <p align="left"> 
